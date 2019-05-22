@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RestaurantBooking</string>
+    <string name="uname">Enter UserName</string>
+    <string name="enter_pwd">Enter password</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btnOrder">Place Order</string>
+    <string name="view_reserve">Reservations</string>
+    <string name="inqueue_customers">Inqueue Customers</string>
+    <string name="title_add_user">Make an Order</string>
+    <string name="add_customer_name">Customer Name</string>
+    <string name="add_cust_email">CustomerEmail</string>
+    <string name="cust_phone_no">Phone Number</string>
+    <string name="no_of_seats">No Of Seats</string>
+    <string name="button_order">Order</string>
+    <string name="view_tables">Alacarte Tables</string>
+    <string name="btn_checkout">Check Out</string>
+    <string name="btn_assign">Assign table</string>
+    <string name="value_1">1</string>
+    <string name="value_2">2</string>
+    <string name="value_3">3</string>
+    <string name="value_4">4</string>
+    <string name="value_5">5</string>
+    <string name="value_6">6</string>
+    <string name="search_number">Customer Contact</string>
+    <string name="cust_search">Search</string>
+    <string name="btn_search">Find Customer</string>
+    <string name="txt_userRole">User Role</string>
+    <string name="userrole_hint">UserRole (MANAGER/FRONTDESK)</string>
+    <string name="title_value">AWESOME FOOD</string>
+    <string name="user_activity_title">USER ACTITVITIES</string>
+    <string name="cust_feedback">Customer Feedback</string>
+    <string name="reserve_number">Make SMS Reservation - 1(704)753-8151</string>
+    <string name="inqueue_status">Queued Customer? SMS Status for Updates</string>
+</resources>
